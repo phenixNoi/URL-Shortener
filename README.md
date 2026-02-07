@@ -1,6 +1,6 @@
-<p align="center"><a href="https://kutt.it" title="kutt.it"><img src="https://raw.githubusercontent.com/thedevs-network/kutt/9d1c873897c3f5b9a1bd0c74dc5d23f2ed01f2ec/static/images/logo-github.png" alt="Kutt.it"></a></p>
+<p align="center"><a href="https://kutt.it" title="phenixNoi"><img src="https://raw.githubusercontent.com/thedevs-network/kutt/9d1c873897c3f5b9a1bd0c74dc5d23f2ed01f2ec/static/images/logo-github.png" alt="phenixNoi"></a></p>
 
-# Kutt.it
+# phenixNoi
 
 **Kutt** is a modern URL shortener with support for custom domains. Create and edit links, view statistics, manage users, and more.
 
